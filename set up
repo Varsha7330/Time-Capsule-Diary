@@ -1,0 +1,24 @@
+# Time Capsule Diary 🕰
+
+A Firebase-based web app to store diary entries that unlock at a future date.
+
+## Features
+- Save text entries and photos
+- Auto-unlock with sound alerts
+- View and delete unlocked entries
+
+## Tech Stack
+- HTML, CSS, JavaScript
+- Firebase Firestore & Hosting
+
+## Setup
+1. Clone this repo
+2. Replace Firebase config in script.js with your own
+3. Open index.html in your browser
+
+📖 Time Capsule Diary
+
+🧩 Problem Solved
+
+Many people wish to preserve their present-day thoughts, photos, or goals and revisit them in the future. However, there’s no simple, secure way to store and automatically unlock such personal content after a chosen period.
+Time Capsule Diary solves this by letting users send messages to their future selves, securely stored and revealed only on a specific future date.
